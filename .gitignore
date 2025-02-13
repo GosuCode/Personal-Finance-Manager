@@ -1,0 +1,25 @@
+# Bytecode files
+*.class
+
+# IDE settings
+.classpath
+.project
+.settings/
+
+# Generated directories
+bin/
+target/
+
+# Local configuration files
+*.log
+
+# Data folder (if it's used for storing runtime data and shouldn't be tracked)
+data/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Other files you may not want to include in the repo
+.idea/
+*.iml
